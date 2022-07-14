@@ -12,7 +12,7 @@ while True:
     if name != '' and age != '' and job != '':
         break
 '''aaaafaffaaaaaafaf
-ffffaaaafffafffffa
+ffffaaaafffafffffaf
 '''
 # Problem 1
 languages = ['go', 'java', 'php', 'python', 'javascript', 'ruby']
