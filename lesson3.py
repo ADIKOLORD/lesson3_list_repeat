@@ -11,7 +11,8 @@ while True:
         job = input('Your job: ')
     if name != '' and age != '' and job != '':
         break
-'''aaaafaffaaaaaafafff
+'''
+
 ''' 
 # Problem 1
 languages = ['go', 'java', 'php', 'python', 'javascript', 'ruby']
