@@ -11,7 +11,7 @@ while True:
         job = input('Your job: ')
     if name != '' and age != '' and job != '':
         break
-'''aaaafaffaaaaa
+'''aaaafaffaaaaaa
 ffffaaaa
 '''
 # Problem 1
