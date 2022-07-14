@@ -13,7 +13,7 @@ while True:
         break
 '''aaaafaffaaaaaafaf
 ffffaaaafffafffffafff
-'''a
+''' 
 # Problem 1
 languages = ['go', 'java', 'php', 'python', 'javascript', 'ruby']
 lang1 = 'Rust'
