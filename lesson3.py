@@ -1,5 +1,5 @@
 '''
-affdddsaaaafa
+affdddsaaaafaf
 name = input('Your name: ')
 age = input('Your age: ')
 job = input('Your job: ')
